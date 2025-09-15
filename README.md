@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hey, I'm Vivek Patil  
 
-<!--
-**VivekPatil-2006/VivekPatil-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Android Developer | Tech Explorer | Problem Solver**  
 
-Here are some ideas to get you started:
+I enjoy building **mobile apps** that make life easier — from **home services** and **car parking** to **academic tools**.  
+When I’m not coding, you’ll find me exploring **new frameworks**, solving **DSA problems**, or tinkering with **backend APIs**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- 📱 Build Android apps with **Java + Firebase**  
+- 🌍 Create **location-based apps** using Maps & APIs  
+- ⚡ Design responsive UIs (XML, Figma prototypes)  
+- 🛠 Explore **FastAPI, React.js, and MongoDB** for backend & web  
+
+---
+
+## 🧩 Projects I’ve Worked On
+- 🏠 **Home Services App** → User, Service Provider & Admin apps with OTP login + real-time bookings  
+- 🎓 **MentorTrack** → Mentor-student system with academic tracking & communication  
+- 🎉 **Event Notifier** → Campus event management app with instant notifications  
+- 🚓 **Police Patrolling** → Admin & station officer dashboard with real-time patrol logs  
+
+*(More projects on my repos 👇)*  
+
+---
+
+## 🛠 Tech I Play With
+<p>
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,python,fastapi,react,mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 My GitHub World
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekPatil-2006&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekPatil-2006&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekPatil-2006&theme=radical)  
+
+---
+
+## 🌐 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/vivekpatil06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vivek.j.patil2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VivekPatil-2006">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=VivekPatil-2006&color=blue)
