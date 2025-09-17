@@ -1,17 +1,9 @@
 # 👋 Hey, I'm Vivek Patil  
 
-🎯 **Android Developer | Tech Explorer | Problem Solver**  
+🎯 **Android Developer | Web Developer | Tech Explorer | Problem Solver**  
 
-I enjoy building **mobile apps** that make life easier — from **home services** and **car parking** to **academic tools**.  
-When I’m not coding, you’ll find me exploring **new frameworks**, solving **DSA problems**, or tinkering with **backend APIs**.  
-
----
-
-## 🚀 What I Do
-- 📱 Build Android apps with **Java + Firebase**  
-- 🌍 Create **location-based apps** using Maps & APIs  
-- ⚡ Design responsive UIs (XML, Figma prototypes)  
-- 🛠 Explore **FastAPI, React.js, and MongoDB** for backend & web  
+I enjoy building **mobile apps & Web Applications** that make life easier. 
+You’ll find me exploring **new frameworks**, solving **DSA problems**, or tinkering with **backend APIs**.  
 
 ---
 
