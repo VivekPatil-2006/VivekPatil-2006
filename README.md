@@ -25,7 +25,6 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
 ---
 
 ## 📊 My GitHub World
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekPatil-2006&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekPatil-2006&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekPatil-2006&theme=radical)  
 
