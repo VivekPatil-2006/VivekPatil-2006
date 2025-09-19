@@ -42,7 +42,7 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  ##Click On Image To Visit Website
+  ## Click On Image To Visit Website
   <a href="https://dapper-pie-4e623d.netlify.app/" target="_blank">
     <img src="https://www.vhv.rs/dpng/d/247-2473909_portfolio-logo-png-portfolio-text-png-transparent-png.png" />
   </a>
