@@ -42,8 +42,8 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <h2 style="color:blue; font-family:Arial, sans-serif;">
-  Click On Image To Visit Website
+  <h2>
+  <font color="blue" face="Arial">✨ Click On Image To Visit Website ✨</font>
   </h2>
 
   <a href="https://dapper-pie-4e623d.netlify.app/" target="_blank">
