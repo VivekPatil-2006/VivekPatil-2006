@@ -8,7 +8,8 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
 ---
 
 ## 🧩 Projects I’ve Worked On
-- 🏠 **Home Services App** → User, Service Provider & Admin apps with OTP login + real-time bookings  
+- 🏠 **Home Services App** → User, Service Provider & Admin apps with OTP login + real-time bookings
+- 🚮 **EcoVation** -> Citizen, Waste Worker, Green Champion, ULB Operator & State Analyst Role for Smart Waste Management
 - 🎓 **MentorTrack** → Mentor-student system with academic tracking & communication  
 - 🎉 **Event Notifier** → Campus event management app with instant notifications  
 - 🚓 **Police Patrolling** → Admin & station officer dashboard with real-time patrol logs  
