@@ -43,6 +43,7 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
+  <! --
   <h2>
   <font color="blue" face="Arial">✨ Click On Image To Visit Website ✨</font>
   </h2>
@@ -52,6 +53,7 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
   </a>
 </p>
 
+ -->
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekPatil-2006&color=blue)
