@@ -36,7 +36,11 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
   <a href="https://github.com/VivekPatil-2006">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://vivekpatil-2006.github.io/vivek-portfolio/">
+    <img src="https://www.google.com/imgres?q=portfolio%20logo&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F060%2F100%2F926%2Fnon_2x%2Fadobe-portfolio-logo-square-rounded-adobe-portfolio-logo-adobe-portfolio-logo-free-download-free-png.png&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F60100926-adobe-portfolio-logo-square-rounded-adobe-portfolio-logo-adobe-portfolio-logo-free-download&docid=T424E3qfQO7M7M&tbnid=sc5eOYyiTZIvxM&vet=12ahUKEwjUt4Wqi4eTAxVT7zgGHRHsFp4QnPAOegQIGxAB..i&w=980&h=980&hcb=2&ved=2ahUKEwjUt4Wqi4eTAxVT7zgGHRHsFp4QnPAOegQIGxAB" />
+  </a>
 
+  
   <!--
   <h2>
   <font color="blue" face="Arial">✨ Click On Image To Visit Website ✨</font>
