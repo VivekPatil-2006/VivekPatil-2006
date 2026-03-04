@@ -37,7 +37,7 @@ You’ll find me exploring **new frameworks**, solving **DSA problems**, or tink
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://vivekpatil-2006.github.io/vivek-portfolio/">
-    <img src="https://www.flaticon.com/free-icon/portfolio_726107" />
+    <img src="https://www.flaticon.com/free-icon/portfolio_726107-black?style=for-the-badge&logo=github" />
   </a>
 
   
